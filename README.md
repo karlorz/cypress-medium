@@ -4,4 +4,4 @@ A speed-code for demoing capabilitis of frontend testing using cypress and integ
 
 Examples: 
 
-[!Passing Specs Demo](https://github.com/ankittrehan2000/cypress-medium/blob/main/demo/passing.gif)
+<img src="https://github.com/ankittrehan2000/cypress-medium/blob/main/demo/passing.gif" width="600" />
