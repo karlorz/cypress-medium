@@ -4,4 +4,4 @@ A speed-code for demoing capabilitis of frontend testing using cypress and integ
 
 Examples: 
 
-
+[!Passing Specs Demo](demo/passing.gif)
