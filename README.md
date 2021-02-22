@@ -5,6 +5,8 @@ A speed-code for demoing capabilitis of frontend testing using cypress and integ
 Examples: 
 
 GIF of commit passing Cypress test specs
+
+
 <img src="https://github.com/ankittrehan2000/cypress-medium/blob/main/demo/passing.gif" width="600" />
 
 GIF of commit failing Cypress test specs
