@@ -1,5 +1,7 @@
 # Cypress Testing With Husky Pre-commit Hooks
 
+Medium article: https://ankittrehan2000.medium.com/automated-end-to-end-testing-with-cypress-and-husky-pre-commit-hooks-edd5385c027b
+
 A speed-code for demoing capabilitis of frontend testing using cypress and integrating it with husky to create pre commit CI runs.
 
 Examples: 
