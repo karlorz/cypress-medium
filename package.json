@@ -16,7 +16,7 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
-    "test": "./node_modules/.bin/cypress run",
+    "test": "npx cypress run",
     "eject": "react-scripts eject"
   },
   "eslintConfig": {
@@ -39,7 +39,7 @@
   },
   "devDependencies": {
     "cypress": "^6.5.0",
-    "husky": "^5.1.0",
+    "husky": "^5.2.0",
     "pinst": "^2.1.4"
   }
 }
