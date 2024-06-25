@@ -16,8 +16,9 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
-    "test": "npx cypress run",
-    "eject": "react-scripts eject"
+    "test": "npx cypress open",
+    "eject": "react-scripts eject",
+    "prepare": "husky install"
   },
   "eslintConfig": {
     "extends": [
